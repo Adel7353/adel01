@@ -18,7 +18,7 @@ function bot($method,$datas=[]){
     }
 }
 
-$Dev = array("1978703762","185520099","3");
+$Dev = array("1675396915","185520099","3");
 $usernamebot = "Zthon1111110bot";
 $channel = "nokat_2024";
 $admin = 1675396915;
